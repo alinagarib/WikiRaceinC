@@ -1,0 +1,3 @@
+C:/Users/alina/CLionProjects/WikiRaceC/cmake-build-debug/CMakeFiles/WikiRaceC.dir
+C:/Users/alina/CLionProjects/WikiRaceC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alina/CLionProjects/WikiRaceC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
